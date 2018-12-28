@@ -1,7 +1,8 @@
 Prodigal Test
 ==============================
 
-Data Science Test for Prodigal
+Data Science Test for Prodigal. 
+Refer to the notebooks to view the Preprocessing and Use-Case construction.
 
 Project Organization
 ------------
