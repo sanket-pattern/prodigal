@@ -1,0 +1,8 @@
+call_id,O-A-overtalk-incidents,O-A-overtalk-ratio,TTR-silence-ratio,TTR-silence-incidents,TTR-A-to-C-talk-rate-ratio,TTR-A-median-streak,TTR-A-talk-ratio,TST-A-intra-call-change-in-pitch,TST-A-intra-call-change-in-relative-voice-volume-energy,TST-A-relative-voice-volume-energy,S-A-sentiment,TTR-A-talk-rate,agent_score
+2023,3.0,2.0,3.0,3.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,12.0
+2600,3.0,2.0,1.0,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,11.0
+2723,2.0,1.0,1.0,0.0,1.0,0.0,1.0,2.0,1.0,1.0,1.0,0.0,11.0
+2987,3.0,0.0,2.0,2.0,2.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,13.0
+3387,3.0,0.0,1.0,2.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,1.0,11.0
+3417,3.0,1.0,3.0,2.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,11.0
+3439,0.0,3.0,0.0,0.0,2.0,2.0,1.0,0.0,0.0,1.0,1.0,2.0,12.0
